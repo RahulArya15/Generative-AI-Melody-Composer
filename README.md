@@ -10,3 +10,4 @@ melodies generated
 
 The model that I created is saved as model.h5 with is also present in the repository
 The other files such as dataset and mapping.json also created while preprocessing the data and training the model.
+In order to play the melodies you will have to install MuseScore in you system.
